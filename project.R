@@ -1,3 +1,6 @@
+# Import libraries
+library("dplyr")
+
 # Get data
 dir<-"C:/Users/user1/Documents/neomod.dat"
 # Data for GLM
